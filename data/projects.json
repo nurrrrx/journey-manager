@@ -1,0 +1,1 @@
+[{"id":"toyota-voice","name":"Toyota voice","kind":"abl","source":"projects/toyota-voice","description":"Derived from the ABL package in projects/toyota-voice: 13 agents and the journeys callers take through them.","agents":13,"journeys":12,"cases":196,"openCases":58,"apis":49,"apisReady":0,"charts":0,"generatedAt":"2026-10-07T14:13:53.727Z"}]
